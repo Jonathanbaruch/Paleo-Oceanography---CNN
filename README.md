@@ -1,6 +1,6 @@
 # **Paleo Oceanography - ResNet 18**
 
-This Repository contains a fine-tuned ResNet18 model, trained to classify Kahanamoku et. al (2023)'s dataset on single-celled organisms, for the course ICS 637 @University of Hawaii.
+This Repository contains a fine-tuned ResNet18 model, trained to classify Kahanamoku et. al (2023)'s dataset on single-celled organisms, for the course ICS 637 @University of Hawaii. This model achieved the highest score in a in-class Kaggle competition, which an accuracy of 88.45% on the test.
 
 The following is from a write-up on the project, considered as an exercise in writing an academic description of a Machine Learning project.
 
